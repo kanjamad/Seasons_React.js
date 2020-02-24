@@ -34,3 +34,4 @@ Now it’s going to print some different content on the screen based upon that.
 ---
 * React.js
 * semantic-ui.com
+* Geolocation API
